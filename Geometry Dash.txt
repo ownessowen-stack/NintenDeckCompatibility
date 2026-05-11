@@ -1,0 +1,4 @@
+Rating: Playable
+ProtonVer: 10.0
+LaunchOption: None
+ExtraInfo: Game stutters in the first 15 seconds, then stabilizes at 60 FPS.
