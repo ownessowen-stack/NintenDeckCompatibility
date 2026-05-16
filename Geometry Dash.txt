@@ -1,4 +1,4 @@
-Rating: Playable
+Rating: Perfect
 FPS: 60
 ProtonVer: 10.0
 LaunchOption: Test
